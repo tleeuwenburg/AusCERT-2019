@@ -5,3 +5,5 @@ conda activate auscert19
 pip install xgboost
 pip install matplotlib
 pip install sklearn
+pip install email_reply_parser
+pip install markovify
