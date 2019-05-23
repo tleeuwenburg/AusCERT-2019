@@ -7,3 +7,4 @@ pip install matplotlib
 pip install sklearn
 pip install email_reply_parser
 pip install markovify
+pip install ip2geo
